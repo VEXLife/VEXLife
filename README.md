@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VEXLife
 - 👀 I’m interested in reinforcement learning.
-- 🌱 I’m currently learning Reinforcement Learning: An Introduction (Second Edition) by Sutton and Barto.
+- 🌱 I’m currently learning Two-Timescale Network algorithm.
 - 💞️ I’m looking to collaborate on a 2048 AI agent.
 - 📫 You can reach me via vexs163@163.com!
