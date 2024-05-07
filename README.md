@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VEXLife
+- 👋 Hi, I’m Midden Vexu @VEXLife
 - 👀 I’m interested in reinforcement learning.
 - 🌱 I’m currently learning telecommunications.
 - 💞️ I’m looking to collaborate on an easy-to-use tool.
