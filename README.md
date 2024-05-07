@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VEXLife
 - 👀 I’m interested in reinforcement learning.
-- 🌱 I’m currently learning computer graphics.
-- 💞️ I’m looking to collaborate on a renderer.
+- 🌱 I’m currently learning telecommunications.
+- 💞️ I’m looking to collaborate on an easy-to-use tool.
 - 📫 You can reach me via vexs163@163.com!
